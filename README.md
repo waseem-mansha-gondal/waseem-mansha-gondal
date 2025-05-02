@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waseem-mansha-gondal GTO Obenan | full stack javascript developer
+- 👋 Hi, I’m @waseem-mansha-gondal CTO Obenan | full stack javascript developer
 - 👀 I’m interested in web3.0 and product development options
 - 🌱 I’m currently leading my team in Javascript (Typescript, Reactjs, React Native, Nodejs, AWS)
 - 💞️ I’m looking to collaborate on blockchain projects 
